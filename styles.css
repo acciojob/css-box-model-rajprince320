@@ -1,12 +1,8 @@
-
-/* Your CSS Code here. */
-.box-3{
-	border: 1px solid black;
-}
-.box-1{
-	border: 15px solid blue;
-	width: 300px;
-	background-color: lightblue;
-	padding: 50px;
-	margin: 20px;
+div{
+	content: This is a demo of box model, try to replicate this box model in Html & Css and pass all the test cases.;
+    width: 300px;
+    padding: 50px;
+    background-color: lightblue;
+    border: 15px solid blue;
+    margin: 20px;
 }
